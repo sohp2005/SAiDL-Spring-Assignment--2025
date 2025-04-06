@@ -1,4 +1,4 @@
-# 🧠 SAiDL Spring 2025 Induction Assignment
+# SAiDL Spring 2025 Induction Assignment
 
 Welcome! This repository contains my submission for the **SAiDL Spring 2025 Induction Assignment**. The assignment centered around two exciting and challenging tracks:
 
@@ -9,14 +9,14 @@ It combined theory with hands-on implementation, encouraging deep exploration of
 
 ---
 
-## 👨‍💻 Author
+## Author
 
 **Name:** Soham Ulhas Pujari  
 **ID:** 2024A7PS0490G
 
 ---
 
-## 📌 Tracks Attempted
+## Tracks Attempted
 
 ### 1. Core ML (Compulsory)
 
